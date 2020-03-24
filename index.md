@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to My blog
+
+I began this blog on the 8th day of quarantine. We're in the midst of a global pandemic and self-isolation. On the bright side, this created a good opportunity to create something helpful. I don't know for how long I will be at home or how things will end up, but for now, I am commited to work on this blog. Create some helpful contents, talk about things I enjoy and hopefully, entertain some readers.
 
 You can use the [editor on GitHub](https://github.com/mohdasti/mohdasti.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 
 ### Markdown
 
