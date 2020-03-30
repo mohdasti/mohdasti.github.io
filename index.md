@@ -2,6 +2,15 @@
 
 I began this blog on the 8th day of quarantine. We're in the midst of a global pandemic and self-isolation. On the bright side, this created a good opportunity to create something helpful. I don't know for how long I will be at home or how things will end up, but for now, I am commited to work on this blog. Create some helpful contents, talk about things I enjoy and hopefully, entertain some readers.
 
+## Linkedin Learning — First impressions
+
+After spending several hours and receivnig more than a dozen certificates from various disciplines, I think I've developed a personal experience with this feature.
+
+First of all, I have free access to [Linkedin Learning](https://www.linkedin.com/learning/) because of my former grad school (Queen's University). This option will not last for so long, so I'm doing my best to explore and learn as much as I could before losing it!
+
+~~ I will update this post as I'm in the middle of a course ~~
+
+
 <!-- You can use the [editor on GitHub](https://github.com/mohdasti/mohdasti.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
 ### Markdown
